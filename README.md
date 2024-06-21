@@ -84,5 +84,3 @@ This bot is intended for educational and informational purposes only. Exercise c
 - [Discord.py](https://discordpy.readthedocs.io/)
 - [VirusTotal API](https://developers.virustotal.com/reference)
 - [Metadefender API](https://www.opswat.com/developers/metadefender)
-
-By including shields.io badges, this revised version provides a visually appealing and informative overview, highlighting key aspects such as prerequisites, installation steps, usage, and contribution guidelines.
