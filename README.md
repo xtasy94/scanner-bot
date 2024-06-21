@@ -27,8 +27,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/security-bot.git
-   cd security-bot
+   git clone https://github.com/xtasy94/scanner-bot.git
+   cd scanner-bot
    ```
 
 2. **Install dependencies:**
